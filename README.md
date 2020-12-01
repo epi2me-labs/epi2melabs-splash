@@ -1,4 +1,4 @@
-# epi2melabs-theme
+# epi2melabs splash
 
 A JupyterLab splash extension.
 
